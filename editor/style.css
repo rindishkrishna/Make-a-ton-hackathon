@@ -104,3 +104,7 @@
     width:110px;
     margin-left:20px;
 }
+#im5{
+    width:inherit;
+    height: inherit;
+}
